@@ -4,10 +4,12 @@
     left: 50%;
     transform:(50%, 50%);
     color: black;
-    font-size: 50px;
+    font-size: 35px;
+    border-radius: 32%;
+    background-color: mediumaquamarine;
 }
 
 html {
-    background-color:black;
+    background-color: darkgrey;
     background-size: cover;
 }
